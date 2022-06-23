@@ -2,9 +2,9 @@
 
 Twitterアカウント->https://www.twitter.com/Sky25614
 
-学習中言語-> C,JavaScript
+学習中言語-> C
 
-お休み中の言語->HTML,CSS,Python,Kotlin
+お休み中の言語->HTML,CSS,Python,Kotlin,JavaScript
 
 私のレポジトリにある一切のデータについて、改変等の行為はご遠慮いただけると幸いです。
 
