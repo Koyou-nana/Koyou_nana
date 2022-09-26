@@ -1,14 +1,9 @@
-ニンゲン以下の知能を持ち、何かを出力する生命体。
+ニンゲンに劣る一般知識の代わりに、情報の知識を習得する、ニンゲン以外の生命体。
 
-Twitterアカウント->https://www.twitter.com/Sky25614
+不思議な何かを作り出すのに特化している。
+
+情報の専門学科所属。
 
 学習中言語-> C
 
-お休み中の言語->HTML,CSS,Python,Kotlin,JavaScript
-
-私のレポジトリにある一切のデータについて、改変等の行為はご遠慮いただけると幸いです。
-
-<!---
-Yukiika/Yukiika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+私のレポジトリにあるデータは、情報に関する成長の記録を示すものです。ニンゲン界の誰かの参考になるものではありません。
